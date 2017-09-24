@@ -1,2 +1,2 @@
 # To-Do-List
-Creating a simple "To Do List" application using Node.js, MongoDB, Express, and AngularJS 2. 
+Creating a simple "Assignment Tracker" application using Node.js, MongoDB, Express, and Angular 2. 
